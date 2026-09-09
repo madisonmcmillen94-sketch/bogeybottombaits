@@ -1,2 +1,2 @@
-# Add this site in AdSense before this line does anything.
+# bogeybottombaits.com added in AdSense Sep 9 2026; awaiting review.
 google.com, pub-3815606137981772, DIRECT, f08c47fec0942fa0
